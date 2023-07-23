@@ -6,5 +6,3 @@ Esse é o conjunto dos 3 exercícios que avaliaram o meu domínio nos tópicos e
 - Análise;
 - Pré-Processamento de dados;
 - Machine Learning;  
-
-Os links para os enunciados dos entregáveis estão no título dos respectivos arquivos, e os links para os datasets estão nos enunciados.
